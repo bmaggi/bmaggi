@@ -20,6 +20,7 @@ I build and operate real-time analytics pipelines at Piano Analytics. I develop 
 
 ### Conference talks (in French)
 
-- **BDX I/O 2023** - [Qu’est-ce qu’un postmortem et comment en animer et rédiger un ?](https://www.youtube.com/watch?v=BCSkxoFgpvg&t=15s)
+- **Agile Tour Bordeaux 2025** - [Autopsie d’un Pipeline : Boostez votre CI/CD avec le Value Stream Mapping](https://youtu.be/HEKc95Z1Rbg?t=74)
 - **Bordeaux JUG 2024** - [Découvrir le property-based testing : de la théorie à la pratique avec jqwik](https://www.youtube.com/watch?v=U5kYlKFlDZA&t=24s)
+- **BDX I/O 2023** - [Qu’est-ce qu’un postmortem et comment en animer et rédiger un ?](https://www.youtube.com/watch?v=BCSkxoFgpvg&t=15s)
 - **Agile Tour 2022** - [Le property-based testing pour répondre aux questions métier](https://www.youtube.com/watch?v=Ta3nztSnze4)
